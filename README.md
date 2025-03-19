@@ -2,7 +2,18 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fprogramador-gifs&psig=AOvVaw2PTZSlGyqdPDjc2ZBCuN2D&ust=1742428317729000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjZmsnplIwDFQAAAAAdAAAAABAE"  />
+<p align="left">📂Currently working on a bank system<br>📓Studiying system engineering<br>🌍Available for project</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davegj01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davegj01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="left">Tech Stack</h3>
 
 ###
 
@@ -40,6 +51,10 @@
 
 ###
 
+<h3 align="left">Social Media</h3>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/david_gj01/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -49,6 +64,32 @@
   </a>
   <a href="www.linkedin.com/in/david-gutierrez-jaramillo" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/davegj01/davegj01/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/davegj01/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=davegj01&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/brooke_386">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=brooke_386&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
