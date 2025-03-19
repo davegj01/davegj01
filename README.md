@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📂Currently working on a bank system<br>📓Studiying system engineering<br>🌍Available for project</p>
+<p align="left">📂Currently working on a bank system<br>📓Studying system engineering<br>🌍Available for project</p>
 
 ###
 
