@@ -81,9 +81,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=davegj01&theme=dark" alt="Layout with last medium posts"  />
-</div>
+
 
 ###
 
